@@ -15,4 +15,5 @@ The tutorial covers creating a simple pastebin code highlighting API.
 that allow users paste code with syntax highlighting and share it.
 
 
-Below is a link to the official repository.
+Below is a link to the official documentation.
+https://www.django-rest-framework.org/
